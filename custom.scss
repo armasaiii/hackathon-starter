@@ -1,0 +1,48 @@
+body {
+    background-color: cornsilk;
+    border: none; 
+    margin: 2em;
+    font-family: 'Rock Salt', ;
+}
+
+.topText {
+    margin-top: -8em;
+    border: yellow solix 1px;
+    color: yellow;
+    margin-left: .8em;
+    font-size: x-large;
+}
+
+.bottomText{
+    margin-top: 5em;
+    border: none;
+    color: pink;
+    margin-left: .8em;
+    font-size: x-large;
+}
+
+.rightSide {
+    margin: 3em;
+    border: none;
+    float: right;
+    width: 40%;
+}
+
+.leftSide {
+    margin: 3em;
+    border: none;
+    float: left;
+    width: 40%;
+    border-right: solid 1px black;
+}
+
+header {
+    text-align: center;
+}
+
+img {
+    max-height: 250px;
+    max-width: 350px;
+} 
+
+
